@@ -1,0 +1,128 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/watercolor-light-steel-blue-wallpaper-image_53876-94665.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+.main{
+    border: 1px solid darkslategrey;
+    height: 3vb;
+    text-decoration: none;
+    word-spacing: 18px;
+    padding: 20px 20px 20px 10px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkslategrey;
+}
+
+.one{
+    text-decoration: none;
+    color: white;
+    margin-right: 300px;
+    margin-left: -100px;
+}
+.one:hover{
+    background-color: lightgray;
+}
+.two{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-left: -70px;
+}
+.two:hover{
+    background-color: lightgray;
+}
+.three{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.three:hover{
+    background-color: lightgray;
+}
+.four{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.four:hover{
+    background-color: lightgray;
+}
+.five{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.five:hover{
+    background-color: lightgray;
+}
+.six{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.six:hover{
+    background-color: lightgray;
+}
+.button{
+     margin-right: -80px;
+     background-color: dodgerblue;
+     border-color: dodgerblue;
+     height: 30px;
+     width: 100;
+     font-size: 15px;
+     color: white;
+     border-style: double;
+     border-radius: 30px;
+     font-weight: bold;
+}
+
+.head{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -120px;
+}
+.para{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -120px;
+}
+.line{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.first{
+    background-color: lightskyblue;
+    border-radius: 15px;
+    width: 130px;
+    height: 30px;
+    margin: 10px;
+    font-weight: bold;
+    margin-left: -70px;
+
+}
+.first:hover{
+    border-style: double;
+    font-size: large;
+}
+.second{
+    background-color: lightgreen;
+    border-radius: 15px;
+    width: 130px;
+    height: 30px;
+    margin: 10px;
+    font-weight: bold;
+}
+.second:hover{
+    border-style: double;
+    font-size: large;
+}
+.img{
+    height: 240px;
+    margin-left: 150px;
+    margin-top: -180px;
+}
