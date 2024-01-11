@@ -19,8 +19,8 @@ body{
 .one{
     text-decoration: none;
     color: white;
-    margin-right: 300px;
-    margin-left: -100px;
+    margin-right: 750px;
+    margin-left: -70px;
 }
 .one:hover{
     background-color: lightgray;
@@ -29,7 +29,7 @@ body{
     text-decoration: none;
     color: white;
     text-align: center;
-    margin-left: -70px;
+    margin-left: -150px;
 }
 .two:hover{
     background-color: lightgray;
@@ -122,7 +122,7 @@ body{
     font-size: large;
 }
 .img{
-    height: 240px;
-    margin-left: 150px;
+    height: 270px;
+    margin-left: 250px;
     margin-top: -180px;
 }
